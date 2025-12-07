@@ -112,13 +112,15 @@ This `update_rooted.img` is the **new rooted firmware image** that you will flas
 1. **Disable Windows Defender Core Isolation**
    (Otherwise the unsigned USB driver may fail to install.)
 
-2. Run the driver installer:
+2. Download PhoenixSuit 1.19 : https://androiddatahost.com/uj9da
+
+3. Run the driver installer:
 
    ```text
    PhoenixSuit_V1.19\Drivers\DPInst64.exe
    ```
 
-3. Open **Device Manager** and check the device:
+4. Open **Device Manager** and check the device:
 
    * If the driver is **not** correctly installed:
 
